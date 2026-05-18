@@ -1,4 +1,4 @@
-# escrow-sol-turbin3-
+# escrow-sol-turbin3
 
 A simple Solana escrow program built with Anchor 1.0. This program lets someone lock up SOL and specify what they want in return. Another person can then complete the trade.
 
